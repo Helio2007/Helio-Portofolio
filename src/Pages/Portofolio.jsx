@@ -197,7 +197,7 @@ export default function FullWidthTabs() {
         </h2>
         <p className="text-slate-400 max-w-2xl mx-auto text-sm md:text-base mt-2">
           Explore my journey through projects, certifications, and technical expertise. 
-          Each section represents a milestone in my continuous learning path.
+          Each section represents a milestone in my continuous learning path that has started 3 years ago.
         </p>
       </div>
 
