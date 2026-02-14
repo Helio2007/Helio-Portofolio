@@ -15,13 +15,13 @@
 
 export const localProjects = [
   {
-    id: "my-first-project",
+    id: "HEGI",
     Img: "https://placehold.co/600x340/1e1b4b/6366f1?text=Project+1",
-    Title: "My First Project",
-    Description: "A short description of what this project does and what you learned.",
-    Link: "https://example.com",
-    Github: "https://github.com/yourusername/repo",
-    TechStack: ["React", "Tailwind", "JavaScript"],
+    Title: "HEGI",
+    Description: "A car rental website made with html, css, and javascript. My first serious project in web development.",
+    Link: "",
+    Github: "https://github.com/Helio2007/HEGI",
+    TechStack: ["HTML", "CSS", "JavaScript"],
     Features: [
       "Feature or learning point one",
       "Feature or learning point two",
